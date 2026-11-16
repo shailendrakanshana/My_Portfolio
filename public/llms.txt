@@ -1,0 +1,24 @@
+# Shailendra Kanshana
+
+> AI Engineer & systems builder. Lead Engineer at Enrichly HR (US-based, remote). Founder of Auramiq. Based in India, open to relocation.
+
+I build intelligent systems, engineer scalable products, and turn ambitious ideas into reality.
+
+## Now
+- Lead Engineer, Enrichly HR (May 2025 – present): owns backend architecture; consolidated frontend business logic into structured REST APIs; redesigned Azure SQL schemas with validation at each layer; fixed recurring production incidents; Node.js services for the analytics dashboard.
+- Founder, Auramiq (Jun 2026 – present): AI research and B2B prospecting platform. Multi-engine, citation-backed research (RAG). Framework-independent core service layer served by both a REST API and an MCP server for AI agents. Scout lead-discovery pipeline (Google Maps sourcing, email verification, SMTP outreach) on Django REST Framework + Celery with a Next.js dashboard.
+
+## Before
+- Founding Engineer, WhatBytes (May 2024 – May 2025): core backend; Elasticsearch for high-volume search; Azure AD B2C (OAuth2, JWT); microservices in Django, .NET Core, Next.js; CI/CD to Azure App Services and AWS Elastic Beanstalk; Docker, Kubernetes.
+- Software Development Engineer, Able (Jun 2023 – May 2024): WebSocket support portal with a GPT-3 assistant (support workload −50%); Google Meet API self-booking tool (reschedules −20%); 20+ Android updates in Kotlin.
+- Earlier: ML Intern, iNeuron.ai (2023); DSA Mentor, GLA University (2023); Android Developer Intern, TheSmartBridge × Google Developers (2022).
+
+## Education
+- B.Tech Computer Science, GLA University, Mathura (2020–2024), GPA 8.51/10.
+- Microsoft Azure AI Fundamentals; Azure Data Fundamentals; Google Cloud Data Engineering, Big Data & ML; ISRO & IIRS Machine Learning to Deep Learning.
+
+## Contact
+- Email: skanshana.coder@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shailendra-kanshana/
+- GitHub: https://github.com/shailendrakanshana
+- Résumé: https://shailendrakanshana.github.io/My_Portfolio/Shailendra_Kanshana_Resume.pdf
