@@ -16,6 +16,22 @@ export default function About() {
               <h2 id="about-title" className="pull">
                 I like the layer <span className="dim">under</span> the demo — the part that has to keep working <em>after</em> the launch tweet.
               </h2>
+              <figure className="portrait">
+                <img
+                  src={`${import.meta.env.BASE_URL}images/portrait.webp`}
+                  srcSet={`${import.meta.env.BASE_URL}images/portrait-sm.webp 450w, ${import.meta.env.BASE_URL}images/portrait.webp 900w`}
+                  sizes="(max-width: 900px) 70vw, 320px"
+                  width={900}
+                  height={900}
+                  loading="lazy"
+                  decoding="async"
+                  alt="Portrait of Shailendra Kanshana"
+                />
+                <figcaption className="mono">
+                  <span>India</span>
+                  <span>open to relocation</span>
+                </figcaption>
+              </figure>
             </Reveal>
             <Reveal className="story" delay={0.1}>
               <p>
